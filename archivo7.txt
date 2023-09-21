@@ -1,0 +1,4 @@
+Este archivo contiene el registro de cambios
+de archivo5.js
+contiene 2 funciones
+las cuales fueron agregadas por Claudio y Horacio.
